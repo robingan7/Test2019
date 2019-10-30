@@ -1,0 +1,23 @@
+[
+  {
+    "artifact": "frcJava (in project FRC-2020-Public)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "FRC-2020-Public",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project Library)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Library",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project theWholeTamale)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "theWholeTamale",
+    "language": "java"
+  }
+]
